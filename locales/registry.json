@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "repo": "traylinx/traymark-i18n",
   "branch": "main",
-  "canonicalKeys": 943,
+  "canonicalKeys": 1030,
   "updatedAt": "2026-11-23",
   "locales": [
     {
@@ -13,8 +13,8 @@
       "bundled": true,
       "file": "locales/en.json",
       "coveragePct": 100,
-      "translatedKeys": 943,
-      "version": "0.24.1",
+      "translatedKeys": 1030,
+      "version": "0.25.0",
       "author": "TrayMark Core"
     },
     {
@@ -25,8 +25,8 @@
       "bundled": true,
       "file": "locales/pl.json",
       "coveragePct": 100,
-      "translatedKeys": 943,
-      "version": "0.24.1",
+      "translatedKeys": 1030,
+      "version": "0.25.0",
       "author": "TrayMark Core"
     },
     {
@@ -37,8 +37,8 @@
       "bundled": true,
       "file": "locales/es.json",
       "coveragePct": 100,
-      "translatedKeys": 943,
-      "version": "0.24.1",
+      "translatedKeys": 1030,
+      "version": "0.25.0",
       "author": "TrayMark Core"
     },
     {
@@ -49,8 +49,8 @@
       "bundled": true,
       "file": "locales/de.json",
       "coveragePct": 100,
-      "translatedKeys": 943,
-      "version": "0.24.1",
+      "translatedKeys": 1030,
+      "version": "0.25.0",
       "author": "TrayMark Core"
     },
     {
@@ -61,8 +61,8 @@
       "bundled": false,
       "file": "locales/zh.json",
       "coveragePct": 100,
-      "translatedKeys": 943,
-      "version": "0.24.1",
+      "translatedKeys": 1030,
+      "version": "0.25.0",
       "author": "TrayMark Community"
     }
   ]
