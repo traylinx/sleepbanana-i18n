@@ -511,7 +511,7 @@
     "palette.cmd.newFile": "Utwórz nowy plik w bieżącym folderze",
     "palette.cmd.printPdf": "Drukuj / Zapisz jako PDF",
     "palette.cmd.exportHtml": "Eksportuj samodzielny HTML",
-    "palette.cmd.openSettings": "Otwórz panel ustawień",
+    "palette.cmd.openSettings": "Otwórz ustawienia (Cmd/Ctrl+,)",
     "palette.cmd.openHelp": "Otwórz podręcznik i pomoc (offline)",
     "palette.cmd.openShortcuts": "Otwórz skróty klawiszowe",
     "editor.toolbarAria": "Formatowanie Markdown",
@@ -945,6 +945,11 @@
     "settings.copiedRaw": "Skopiowano treść",
     "settings.assistantStateError": "błąd",
     "settings.aboutPrivacy": "100% local-first · Zero telemetrii, zero paywalli, zero podglądania w chmurze.",
-    "settings.shortcutHint": "Cmd/Ctrl + ,"
+    "settings.shortcutHint": "Cmd/Ctrl + ,",
+    "settings.autoBrowserTooltip": "Automatycznie dopasuj do języka przeglądarki ({lang})",
+    "settings.bridgeRecheckOk": "Połączono z Local Bridge (v{version}, {platform})",
+    "settings.bridgeRecheckNone": "Nie wykryto Local Bridge — tryb samej przeglądarki",
+    "settings.noTextToCopy": "Brak treści tekstowej do skopiowania dla tego typu pliku",
+    "settings.activeLangBadge": "Aktywny"
   }
 }

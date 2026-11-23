@@ -511,7 +511,7 @@
     "palette.cmd.newFile": "Neue Datei im aktiven Ordner erstellen",
     "palette.cmd.printPdf": "Drucken / Als PDF speichern",
     "palette.cmd.exportHtml": "Eigenständiges HTML exportieren",
-    "palette.cmd.openSettings": "Einstellungen öffnen",
+    "palette.cmd.openSettings": "Einstellungen öffnen (Cmd/Ctrl+,)",
     "palette.cmd.openHelp": "Benutzerhandbuch & Hilfe öffnen (Offline)",
     "palette.cmd.openShortcuts": "Tastenkürzel öffnen",
     "editor.toolbarAria": "Markdown-Formatierung",
@@ -945,6 +945,11 @@
     "settings.copiedRaw": "Inhalt kopiert",
     "settings.assistantStateError": "Fehler",
     "settings.aboutPrivacy": "100% Local-First · Keine Telemetrie, keine Paywall, kein Cloud-Tracking.",
-    "settings.shortcutHint": "Cmd/Ctrl + ,"
+    "settings.shortcutHint": "Cmd/Ctrl + ,",
+    "settings.autoBrowserTooltip": "Automatisch der Browsersprache folgen ({lang})",
+    "settings.bridgeRecheckOk": "Local Bridge verbunden (v{version}, {platform})",
+    "settings.bridgeRecheckNone": "Local Bridge nicht erkannt — reiner Browser-Modus",
+    "settings.noTextToCopy": "Für diesen Dateityp ist kein Textinhalt zum Kopieren verfügbar",
+    "settings.activeLangBadge": "Aktiv"
   }
 }

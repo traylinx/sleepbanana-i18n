@@ -4,7 +4,7 @@
     "name": "Chinese (Simplified)",
     "nativeName": "中文 (简体)",
     "dir": "ltr",
-    "version": "0.24.0",
+    "version": "0.24.1",
     "author": "TrayMark Community"
   },
   "messages": {
@@ -511,7 +511,7 @@
     "palette.cmd.newFile": "在当前文件夹中新建文件",
     "palette.cmd.printPdf": "打印 / 保存为 PDF",
     "palette.cmd.exportHtml": "导出独立 HTML",
-    "palette.cmd.openSettings": "打开设置窗口",
+    "palette.cmd.openSettings": "打开设置 (Cmd/Ctrl+,)",
     "palette.cmd.openHelp": "打开用户指南与帮助（离线）",
     "palette.cmd.openShortcuts": "打开键盘快捷键",
     "editor.toolbarAria": "Markdown 格式工具栏",
@@ -945,6 +945,11 @@
     "settings.copiedRaw": "已复制内容",
     "settings.assistantStateError": "错误",
     "settings.aboutPrivacy": "100% 本地优先 · 零遥测、零付费墙、零云端窥探。",
-    "settings.shortcutHint": "Cmd/Ctrl + ,"
+    "settings.shortcutHint": "Cmd/Ctrl + ,",
+    "settings.autoBrowserTooltip": "自动跟随浏览器语言 ({lang})",
+    "settings.bridgeRecheckOk": "本地 Bridge 已连接 (v{version}, {platform})",
+    "settings.bridgeRecheckNone": "未检测到本地 Bridge — 仅浏览器模式运行",
+    "settings.noTextToCopy": "此文件类型没有可复制的文本内容",
+    "settings.activeLangBadge": "当前使用"
   }
 }
