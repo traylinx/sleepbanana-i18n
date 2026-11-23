@@ -1039,7 +1039,7 @@
     "git.syncing": "正在同步…",
     "git.detachedHead": "分离头指针 (HEAD)",
     "wsHome.badge": "工作区",
-    "wsHome.resumeFile": "继续编辑 {name}",
+    "wsHome.resumeFile": "打开 {name}",
     "wsHome.browseFiles": "浏览文件",
     "wsHome.searchWorkspace": "搜索",
     "wsHome.statFiles": "文件",

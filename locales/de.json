@@ -1039,7 +1039,7 @@
     "git.syncing": "Synchronisiere…",
     "git.detachedHead": "Detached HEAD",
     "wsHome.badge": "Workspace",
-    "wsHome.resumeFile": "{name} fortsetzen",
+    "wsHome.resumeFile": "{name} öffnen",
     "wsHome.browseFiles": "Dateien anzeigen",
     "wsHome.searchWorkspace": "Suchen",
     "wsHome.statFiles": "Dateien",
