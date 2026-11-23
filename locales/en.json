@@ -4,7 +4,7 @@
     "name": "English",
     "nativeName": "English",
     "dir": "ltr",
-    "version": "0.27.0",
+    "version": "0.28.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -1114,6 +1114,18 @@
     "settings.bridgeUninstallTitle": "Uninstall & Developer CLI",
     "settings.bridgeUninstallLabel": "Remove Local Bridge:",
     "settings.bridgeDevCliLabel": "From source repo (developers):",
-    "settings.bridgeExtIdLabel": "ID: {id}"
+    "settings.bridgeExtIdLabel": "ID: {id}",
+    "lightbox.copyImage": "Copy image as PNG",
+    "sidebar.dropToRoot": "Drop here to move into {name}",
+    "toast.movedItem": "Moved {name} → {folder}",
+    "toast.movedItemLinksUpdated": "Moved {name} → {folder} ({count} links updated)",
+    "toast.couldNotMove": "Could not move item",
+    "toast.externalFileChanged": "File changed on disk (unsaved local edits preserved)",
+    "editor.slashHintTitle": "Type / anywhere on a new line for block commands",
+    "editor.slashCommandsAria": "Slash block commands",
+    "editor.slashCommandsHead": "Insert block (/command)",
+    "palette.quickFilesPlaceholder": "Quick open file in workspace…",
+    "palette.quickFilesBadge": "Files",
+    "palette.cmd.quickOpenFile": "Quick Open File (Cmd/Ctrl+P)"
   }
 }

@@ -1114,6 +1114,18 @@
     "settings.bridgeUninstallTitle": "卸载与开发者 CLI",
     "settings.bridgeUninstallLabel": "卸载本地 Bridge：",
     "settings.bridgeDevCliLabel": "从源码仓库安装（开发者）：",
-    "settings.bridgeExtIdLabel": "ID：{id}"
+    "settings.bridgeExtIdLabel": "ID：{id}",
+    "lightbox.copyImage": "复制为 PNG 图片",
+    "sidebar.dropToRoot": "拖放到此处移动到 {name}",
+    "toast.movedItem": "已移动 {name} → {folder}",
+    "toast.movedItemLinksUpdated": "已移动 {name} → {folder}（已更新 {count} 处链接）",
+    "toast.couldNotMove": "无法移动该项目",
+    "toast.externalFileChanged": "文件已在磁盘上更新（已保留未保存的本地编辑）",
+    "editor.slashHintTitle": "在行首输入 / 打开块级命令菜单",
+    "editor.slashCommandsAria": "斜杠块级命令",
+    "editor.slashCommandsHead": "插入块 (/命令)",
+    "palette.quickFilesPlaceholder": "快速打开工作区文件…",
+    "palette.quickFilesBadge": "文件",
+    "palette.cmd.quickOpenFile": "快速打开文件 (Cmd/Ctrl+P)"
   }
 }
