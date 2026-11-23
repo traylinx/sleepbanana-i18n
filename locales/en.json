@@ -1126,6 +1126,12 @@
     "editor.slashCommandsHead": "Insert block (/command)",
     "palette.quickFilesPlaceholder": "Quick open file in workspace…",
     "palette.quickFilesBadge": "Files",
-    "palette.cmd.quickOpenFile": "Quick Open File (Cmd/Ctrl+P)"
+    "palette.cmd.quickOpenFile": "Quick Open File (Cmd/Ctrl+P)",
+    "sidebar.openFolderBtn": "Open Folder",
+    "sidebar.openFolderTitle": "Choose a local folder to open as a Workspace",
+    "sidebar.openFileBtn": "Open File",
+    "sidebar.openFileTitle": "Choose any local file to open",
+    "palette.cmd.openLocalFolder": "Open Local Folder…",
+    "palette.cmd.openLocalFile": "Open Local File…"
   }
 }

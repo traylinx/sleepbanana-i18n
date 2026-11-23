@@ -1126,6 +1126,12 @@
     "editor.slashCommandsHead": "Insertar bloque (/comando)",
     "palette.quickFilesPlaceholder": "Abrir archivo rápido en el espacio de trabajo…",
     "palette.quickFilesBadge": "Archivos",
-    "palette.cmd.quickOpenFile": "Abrir archivo rápido (Cmd/Ctrl+P)"
+    "palette.cmd.quickOpenFile": "Abrir archivo rápido (Cmd/Ctrl+P)",
+    "sidebar.openFolderBtn": "Abrir carpeta",
+    "sidebar.openFolderTitle": "Elegir una carpeta local para abrir como espacio de trabajo",
+    "sidebar.openFileBtn": "Abrir archivo",
+    "sidebar.openFileTitle": "Elegir cualquier archivo local para abrir",
+    "palette.cmd.openLocalFolder": "Abrir carpeta local…",
+    "palette.cmd.openLocalFile": "Abrir archivo local…"
   }
 }

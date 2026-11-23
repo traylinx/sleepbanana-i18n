@@ -1126,6 +1126,12 @@
     "editor.slashCommandsHead": "插入块 (/命令)",
     "palette.quickFilesPlaceholder": "快速打开工作区文件…",
     "palette.quickFilesBadge": "文件",
-    "palette.cmd.quickOpenFile": "快速打开文件 (Cmd/Ctrl+P)"
+    "palette.cmd.quickOpenFile": "快速打开文件 (Cmd/Ctrl+P)",
+    "sidebar.openFolderBtn": "打开文件夹",
+    "sidebar.openFolderTitle": "选择本地文件夹作为工作区打开",
+    "sidebar.openFileBtn": "打开文件",
+    "sidebar.openFileTitle": "选择任意本地文件打开",
+    "palette.cmd.openLocalFolder": "打开本地文件夹…",
+    "palette.cmd.openLocalFile": "打开本地文件…"
   }
 }

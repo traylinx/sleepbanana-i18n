@@ -1126,6 +1126,12 @@
     "editor.slashCommandsHead": "Wstaw blok (/polecenie)",
     "palette.quickFilesPlaceholder": "Szybko otwórz plik w przestrzeni roboczej…",
     "palette.quickFilesBadge": "Pliki",
-    "palette.cmd.quickOpenFile": "Szybko otwórz plik (Cmd/Ctrl+P)"
+    "palette.cmd.quickOpenFile": "Szybko otwórz plik (Cmd/Ctrl+P)",
+    "sidebar.openFolderBtn": "Otwórz folder",
+    "sidebar.openFolderTitle": "Wybierz lokalny folder jako przestrzeń roboczą",
+    "sidebar.openFileBtn": "Otwórz plik",
+    "sidebar.openFileTitle": "Wybierz dowolny plik lokalny do otwarcia",
+    "palette.cmd.openLocalFolder": "Otwórz lokalny folder…",
+    "palette.cmd.openLocalFile": "Otwórz lokalny plik…"
   }
 }
