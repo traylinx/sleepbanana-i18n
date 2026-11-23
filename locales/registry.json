@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "repo": "traylinx/traymark-i18n",
+  "repo": "traylinx/sleepbanana-i18n",
   "branch": "main",
-  "canonicalKeys": 1057,
+  "canonicalKeys": 1081,
   "updatedAt": "2026-11-23",
   "locales": [
     {
@@ -13,9 +13,9 @@
       "bundled": true,
       "file": "locales/en.json",
       "coveragePct": 100,
-      "translatedKeys": 1057,
-      "version": "0.25.0",
-      "author": "TrayMark Core"
+      "translatedKeys": 1081,
+      "version": "0.26.0",
+      "author": "SleepBanana Core"
     },
     {
       "code": "pl",
@@ -25,9 +25,9 @@
       "bundled": true,
       "file": "locales/pl.json",
       "coveragePct": 100,
-      "translatedKeys": 1057,
-      "version": "0.25.0",
-      "author": "TrayMark Core"
+      "translatedKeys": 1081,
+      "version": "0.26.0",
+      "author": "SleepBanana Core"
     },
     {
       "code": "es",
@@ -37,9 +37,9 @@
       "bundled": true,
       "file": "locales/es.json",
       "coveragePct": 100,
-      "translatedKeys": 1057,
-      "version": "0.25.0",
-      "author": "TrayMark Core"
+      "translatedKeys": 1081,
+      "version": "0.26.0",
+      "author": "SleepBanana Core"
     },
     {
       "code": "de",
@@ -49,9 +49,9 @@
       "bundled": true,
       "file": "locales/de.json",
       "coveragePct": 100,
-      "translatedKeys": 1057,
-      "version": "0.25.0",
-      "author": "TrayMark Core"
+      "translatedKeys": 1081,
+      "version": "0.26.0",
+      "author": "SleepBanana Core"
     },
     {
       "code": "zh",
@@ -61,9 +61,9 @@
       "bundled": false,
       "file": "locales/zh.json",
       "coveragePct": 100,
-      "translatedKeys": 1057,
-      "version": "0.25.0",
-      "author": "TrayMark Community"
+      "translatedKeys": 1081,
+      "version": "0.26.0",
+      "author": "SleepBanana Community"
     }
   ]
 }

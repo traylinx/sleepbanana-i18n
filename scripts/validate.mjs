@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * TrayMark Community i18n Validator & Registry Sync
+ * SleepBanana Community i18n Validator & Registry Sync
  *
  * Usage:
  *   node scripts/validate.mjs                  # Validate all locale packs + registry.json
@@ -125,7 +125,7 @@ if (updateRegistry && !hasErrors) {
   writeFileSync(registryPath, JSON.stringify(registry, null, 2) + '\n', 'utf8')
 }
 
-console.log('\nTrayMark Community i18n Validation:')
+console.log('\nSleepBanana Community i18n Validation:')
 for (const row of summaryRows) {
   const tag = row.bundled ? 'bundled  ' : 'community'
   console.log(
