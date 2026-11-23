@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "repo": "traylinx/traymark-i18n",
+  "branch": "main",
+  "canonicalKeys": 938,
+  "updatedAt": "2026-11-23",
+  "locales": [
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "dir": "ltr",
+      "bundled": true,
+      "file": "locales/en.json",
+      "coveragePct": 100,
+      "translatedKeys": 938,
+      "version": "0.23.0",
+      "author": "TrayMark Core"
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "nativeName": "Polski",
+      "dir": "ltr",
+      "bundled": true,
+      "file": "locales/pl.json",
+      "coveragePct": 100,
+      "translatedKeys": 938,
+      "version": "0.23.0",
+      "author": "TrayMark Core"
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "nativeName": "Español",
+      "dir": "ltr",
+      "bundled": true,
+      "file": "locales/es.json",
+      "coveragePct": 100,
+      "translatedKeys": 938,
+      "version": "0.23.0",
+      "author": "TrayMark Core"
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "nativeName": "Deutsch",
+      "dir": "ltr",
+      "bundled": true,
+      "file": "locales/de.json",
+      "coveragePct": 100,
+      "translatedKeys": 938,
+      "version": "0.23.0",
+      "author": "TrayMark Core"
+    },
+    {
+      "code": "zh",
+      "name": "Chinese (Simplified)",
+      "nativeName": "中文 (简体)",
+      "dir": "ltr",
+      "bundled": false,
+      "file": "locales/zh.json",
+      "coveragePct": 100,
+      "translatedKeys": 938,
+      "version": "0.24.0",
+      "author": "TrayMark Community"
+    }
+  ]
+}
