@@ -1088,6 +1088,7 @@
     "wsHome.statGitInstallAction": "Click to install Git →",
     "wsHome.statGitBridgeAction": "Connect Local Bridge →",
     "dir.installGit": "Install Git",
-    "dir.installGitDesc": "Install Git on this computer to enable version control"
+    "dir.installGitDesc": "Install Git on this computer to enable version control",
+    "sidebar.brandAboutTitle": "SleepBanana — Help & About"
   }
 }

@@ -1088,6 +1088,7 @@
     "wsHome.statGitInstallAction": "点击安装 Git →",
     "wsHome.statGitBridgeAction": "连接 Local Bridge →",
     "dir.installGit": "安装 Git",
-    "dir.installGitDesc": "在此电脑上安装 Git 以启用版本控制"
+    "dir.installGitDesc": "在此电脑上安装 Git 以启用版本控制",
+    "sidebar.brandAboutTitle": "SleepBanana — 帮助与关于"
   }
 }
