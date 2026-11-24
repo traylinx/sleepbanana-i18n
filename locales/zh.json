@@ -4,7 +4,7 @@
     "name": "Chinese (Simplified)",
     "nativeName": "中文 (简体)",
     "dir": "ltr",
-    "version": "0.33.0",
+    "version": "0.34.0",
     "author": "SleepBanana Community"
   },
   "messages": {
@@ -1390,6 +1390,11 @@
     "assistant.confirmDeleteBtn": "确认删除",
     "assistant.allowOnceBtn": "仅允许本次",
     "assistant.undoingTask": "正在撤销…",
-    "assistant.undoTaskInline": "撤销任务 ({count})"
+    "assistant.undoTaskInline": "撤销任务 ({count})",
+    "assistant.clearChatTitle": "清空对话",
+    "assistant.modelSelectAria": "选择 AI 模型",
+    "assistant.stopBtn": "停止",
+    "assistant.stoppedNote": "已停止",
+    "assistant.streamingLabel": "正在输出…"
   }
 }

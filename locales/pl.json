@@ -4,7 +4,7 @@
     "name": "Polish",
     "nativeName": "Polski",
     "dir": "ltr",
-    "version": "0.33.0",
+    "version": "0.34.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -1390,6 +1390,11 @@
     "assistant.confirmDeleteBtn": "Potwierdź usunięcie",
     "assistant.allowOnceBtn": "Zezwól raz",
     "assistant.undoingTask": "Cofanie…",
-    "assistant.undoTaskInline": "Cofnij zadanie ({count})"
+    "assistant.undoTaskInline": "Cofnij zadanie ({count})",
+    "assistant.clearChatTitle": "Wyczyść rozmowę",
+    "assistant.modelSelectAria": "Wybierz model AI",
+    "assistant.stopBtn": "Zatrzymaj",
+    "assistant.stoppedNote": "Zatrzymano",
+    "assistant.streamingLabel": "Strumieniowanie…"
   }
 }

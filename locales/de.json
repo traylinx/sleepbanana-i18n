@@ -4,7 +4,7 @@
     "name": "German",
     "nativeName": "Deutsch",
     "dir": "ltr",
-    "version": "0.33.0",
+    "version": "0.34.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -1390,6 +1390,11 @@
     "assistant.confirmDeleteBtn": "Löschen bestätigen",
     "assistant.allowOnceBtn": "Einmal erlauben",
     "assistant.undoingTask": "Rückgängig…",
-    "assistant.undoTaskInline": "Aufgabe rückgängig ({count})"
+    "assistant.undoTaskInline": "Aufgabe rückgängig ({count})",
+    "assistant.clearChatTitle": "Unterhaltung leeren",
+    "assistant.modelSelectAria": "KI-Modell wählen",
+    "assistant.stopBtn": "Stopp",
+    "assistant.stoppedNote": "Gestoppt",
+    "assistant.streamingLabel": "Streaming…"
   }
 }

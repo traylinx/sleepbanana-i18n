@@ -4,7 +4,7 @@
     "name": "English",
     "nativeName": "English",
     "dir": "ltr",
-    "version": "0.33.0",
+    "version": "0.34.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -1390,6 +1390,11 @@
     "assistant.confirmDeleteBtn": "Confirm delete",
     "assistant.allowOnceBtn": "Allow once",
     "assistant.undoingTask": "Undoing…",
-    "assistant.undoTaskInline": "Undo task ({count})"
+    "assistant.undoTaskInline": "Undo task ({count})",
+    "assistant.clearChatTitle": "Clear conversation",
+    "assistant.modelSelectAria": "Select AI model",
+    "assistant.stopBtn": "Stop",
+    "assistant.stoppedNote": "Stopped",
+    "assistant.streamingLabel": "Streaming…"
   }
 }
