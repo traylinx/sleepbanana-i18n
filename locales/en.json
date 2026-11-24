@@ -4,7 +4,7 @@
     "name": "English",
     "nativeName": "English",
     "dir": "ltr",
-    "version": "0.32.0",
+    "version": "0.33.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -807,10 +807,10 @@
     "drive.errUploadFailed": "Upload to Google Drive failed",
     "assistant.aria": "AI Assistant",
     "assistant.title": "AI Assistant",
-    "assistant.subtitle": "Local-first · Opt-in AI Bus v1",
+    "assistant.subtitle": "Local-first · Opt-in AI Bus v2",
     "assistant.disconnectTitle": "Disconnect AI Assistant",
     "assistant.closeAria": "Close AI Assistant",
-    "assistant.connectIntro": "Connect SleepBanana's Assistant Bus v1 to your local switchAILocal gateway, Ollama, LM Studio, or any OpenAI-compatible endpoint. Zero network calls happen until you click Connect.",
+    "assistant.connectIntro": "Connect SleepBanana's Assistant Bus v2 to your local switchAILocal gateway, Ollama, LM Studio, or any OpenAI-compatible endpoint. Zero network calls happen until you click Connect.",
     "assistant.quickPresets": "Quick Presets",
     "assistant.baseUrlLabel": "OpenAI-Compatible Base URL",
     "assistant.modelLabel": "Model (or \"auto\" to pick first discovered)",
@@ -1372,6 +1372,24 @@
     "action.say.security.gdriveAuthorize": "Authorize Google Drive OAuth",
     "action.say.security.bridgeInstall": "Install host Local Bridge",
     "action.say.security.backupImport": "Import SleepBanana backup bundle",
-    "action.say.security.historyClearAll": "Clear all local history"
+    "action.say.security.historyClearAll": "Clear all local history",
+    "assistant.openActivityTitle": "Action Activity & Trust Rules",
+    "assistant.contextToggleTitle": "Toggle whether active document text and workspace snapshot are shared with the AI assistant",
+    "assistant.contextSharingOn": "Context: Active doc",
+    "assistant.contextSharingOff": "Context: Metadata only",
+    "assistant.toolsCount": "{count} tools",
+    "assistant.toolRunning": "Running…",
+    "assistant.toolAwaiting": "Awaiting approval",
+    "assistant.toolDone": "Done",
+    "assistant.toolDenied": "Denied",
+    "assistant.toolError": "Error",
+    "assistant.approvalAria": "Approve assistant action",
+    "assistant.deleteConfirmNote": "Destructive action — confirmation is always required.",
+    "assistant.denyBtn": "Deny",
+    "assistant.dontAskAgainBtn": "Don't ask again",
+    "assistant.confirmDeleteBtn": "Confirm delete",
+    "assistant.allowOnceBtn": "Allow once",
+    "assistant.undoingTask": "Undoing…",
+    "assistant.undoTaskInline": "Undo task ({count})"
   }
 }

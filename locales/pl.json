@@ -4,7 +4,7 @@
     "name": "Polish",
     "nativeName": "Polski",
     "dir": "ltr",
-    "version": "0.32.0",
+    "version": "0.33.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -807,10 +807,10 @@
     "drive.errUploadFailed": "Przesyłanie do Google Drive nie powiodło się",
     "assistant.aria": "Asystent AI",
     "assistant.title": "Asystent AI",
-    "assistant.subtitle": "Lokalny · Opcjonalna szyna AI v1",
+    "assistant.subtitle": "Lokalnie · Opcjonalna magistrala AI v2",
     "assistant.disconnectTitle": "Odłącz Asystenta AI",
     "assistant.closeAria": "Zamknij Asystenta AI",
-    "assistant.connectIntro": "Połącz szynę SleepBanana Assistant Bus v1 z lokalną bramką switchAILocal, Ollama, LM Studio lub dowolnym endpointem OpenAI. Zero zapytań sieciowych przed kliknięciem Połącz.",
+    "assistant.connectIntro": "Połącz magistralę SleepBanana Assistant Bus v2 z lokalnym switchAILocal, Ollama, LM Studio lub dowolnym punktem końcowym zgodnym z OpenAI. Brak połączeń sieciowych przed kliknięciem Połącz.",
     "assistant.quickPresets": "Szybkie ustawienia",
     "assistant.baseUrlLabel": "Bazowy adres URL (kompatybilny z OpenAI)",
     "assistant.modelLabel": "Model (lub „auto”, aby wybrać pierwszy wykryty)",
@@ -1372,6 +1372,24 @@
     "action.say.security.gdriveAuthorize": "Autoryzuj Google Drive OAuth",
     "action.say.security.bridgeInstall": "Zainstaluj host Local Bridge",
     "action.say.security.backupImport": "Importuj kopię zapasową SleepBanana",
-    "action.say.security.historyClearAll": "Wyczyść całą lokalną historię"
+    "action.say.security.historyClearAll": "Wyczyść całą lokalną historię",
+    "assistant.openActivityTitle": "Aktywność akcji i reguły zaufania",
+    "assistant.contextToggleTitle": "Przełącz udostępnianie treści aktywnego dokumentu i kontekstu przestrzeni roboczej asystentowi AI",
+    "assistant.contextSharingOn": "Kontekst: Aktywny dok.",
+    "assistant.contextSharingOff": "Kontekst: Tylko metadane",
+    "assistant.toolsCount": "{count} narzędzi",
+    "assistant.toolRunning": "Uruchamianie…",
+    "assistant.toolAwaiting": "Oczekuje na zgodę",
+    "assistant.toolDone": "Gotowe",
+    "assistant.toolDenied": "Odrzucono",
+    "assistant.toolError": "Błąd",
+    "assistant.approvalAria": "Zatwierdź akcję asystenta",
+    "assistant.deleteConfirmNote": "Akcja usuwania — potwierdzenie jest zawsze wymagane.",
+    "assistant.denyBtn": "Odrzuć",
+    "assistant.dontAskAgainBtn": "Nie pytaj ponownie",
+    "assistant.confirmDeleteBtn": "Potwierdź usunięcie",
+    "assistant.allowOnceBtn": "Zezwól raz",
+    "assistant.undoingTask": "Cofanie…",
+    "assistant.undoTaskInline": "Cofnij zadanie ({count})"
   }
 }

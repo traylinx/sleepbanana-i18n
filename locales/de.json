@@ -4,7 +4,7 @@
     "name": "German",
     "nativeName": "Deutsch",
     "dir": "ltr",
-    "version": "0.32.0",
+    "version": "0.33.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -807,10 +807,10 @@
     "drive.errUploadFailed": "Upload zu Google Drive fehlgeschlagen",
     "assistant.aria": "KI-Assistent",
     "assistant.title": "KI-Assistent",
-    "assistant.subtitle": "Lokal-first · Optionaler KI-Bus v1",
+    "assistant.subtitle": "Lokal-first · Opt-in AI Bus v2",
     "assistant.disconnectTitle": "KI-Assistent trennen",
     "assistant.closeAria": "KI-Assistent schließen",
-    "assistant.connectIntro": "Verbinde den SleepBanana Assistant Bus v1 mit deinem lokalen switchAILocal Gateway, Ollama, LM Studio oder jedem OpenAI-kompatiblen Endpunkt. Null Netzwerkanfragen vor dem Klick auf Verbinden.",
+    "assistant.connectIntro": "Verbinde den SleepBanana Assistant Bus v2 mit deinem lokalen switchAILocal-Gateway, Ollama, LM Studio oder einem OpenAI-kompatiblen Endpunkt. Keine Netzwerkanfragen vor dem Klick auf Verbinden.",
     "assistant.quickPresets": "Schnellvorlagen",
     "assistant.baseUrlLabel": "OpenAI-kompatible Basis-URL",
     "assistant.modelLabel": "Modell (oder „auto“ für erstes erkanntes)",
@@ -1372,6 +1372,24 @@
     "action.say.security.gdriveAuthorize": "Google Drive OAuth autorisieren",
     "action.say.security.bridgeInstall": "Lokale Bridge installieren",
     "action.say.security.backupImport": "SleepBanana-Backup importieren",
-    "action.say.security.historyClearAll": "Gesamten lokalen Verlauf löschen"
+    "action.say.security.historyClearAll": "Gesamten lokalen Verlauf löschen",
+    "assistant.openActivityTitle": "Aktionsverlauf & Vertrauensregeln",
+    "assistant.contextToggleTitle": "Umschalten, ob aktiver Dokumentinhalt und Workspace-Kontext mit dem KI-Assistenten geteilt werden",
+    "assistant.contextSharingOn": "Kontext: Aktives Dok.",
+    "assistant.contextSharingOff": "Kontext: Nur Metadaten",
+    "assistant.toolsCount": "{count} Werkzeuge",
+    "assistant.toolRunning": "Läuft…",
+    "assistant.toolAwaiting": "Wartet auf Freigabe",
+    "assistant.toolDone": "Fertig",
+    "assistant.toolDenied": "Abgelehnt",
+    "assistant.toolError": "Fehler",
+    "assistant.approvalAria": "Assistenten-Aktion freigeben",
+    "assistant.deleteConfirmNote": "Löschaktion — Bestätigung ist immer erforderlich.",
+    "assistant.denyBtn": "Ablehnen",
+    "assistant.dontAskAgainBtn": "Nicht mehr fragen",
+    "assistant.confirmDeleteBtn": "Löschen bestätigen",
+    "assistant.allowOnceBtn": "Einmal erlauben",
+    "assistant.undoingTask": "Rückgängig…",
+    "assistant.undoTaskInline": "Aufgabe rückgängig ({count})"
   }
 }

@@ -4,7 +4,7 @@
     "name": "Spanish",
     "nativeName": "Español",
     "dir": "ltr",
-    "version": "0.32.0",
+    "version": "0.33.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -807,10 +807,10 @@
     "drive.errUploadFailed": "Error al subir a Google Drive",
     "assistant.aria": "Asistente IA",
     "assistant.title": "Asistente IA",
-    "assistant.subtitle": "Local-first · Bus AI v1 opcional",
+    "assistant.subtitle": "Local-first · Bus AI opcional v2",
     "assistant.disconnectTitle": "Desconectar Asistente AI",
     "assistant.closeAria": "Cerrar Asistente AI",
-    "assistant.connectIntro": "Conecta el Assistant Bus v1 de SleepBanana a tu pasarela local switchAILocal, Ollama, LM Studio o cualquier endpoint compatible con OpenAI. Cero llamadas de red hasta pulsar Conectar.",
+    "assistant.connectIntro": "Conecta Assistant Bus v2 de SleepBanana a tu switchAILocal, Ollama, LM Studio o cualquier endpoint compatible con OpenAI. No se realizan llamadas de red hasta que pulses Conectar.",
     "assistant.quickPresets": "Preajustes rápidos",
     "assistant.baseUrlLabel": "URL base compatible con OpenAI",
     "assistant.modelLabel": "Modelo (o «auto» para usar el primero detectado)",
@@ -1372,6 +1372,24 @@
     "action.say.security.gdriveAuthorize": "Autorizar OAuth de Google Drive",
     "action.say.security.bridgeInstall": "Instalar Local Bridge en el equipo",
     "action.say.security.backupImport": "Importar copia de seguridad",
-    "action.say.security.historyClearAll": "Borrar todo el historial local"
+    "action.say.security.historyClearAll": "Borrar todo el historial local",
+    "assistant.openActivityTitle": "Actividad de acciones y reglas de confianza",
+    "assistant.contextToggleTitle": "Alterna si el contenido del documento activo y la instantánea del espacio de trabajo se comparten con el asistente AI",
+    "assistant.contextSharingOn": "Contexto: Doc. activo",
+    "assistant.contextSharingOff": "Contexto: Solo metadatos",
+    "assistant.toolsCount": "{count} herramientas",
+    "assistant.toolRunning": "Ejecutando…",
+    "assistant.toolAwaiting": "Esperando aprobación",
+    "assistant.toolDone": "Hecho",
+    "assistant.toolDenied": "Denegado",
+    "assistant.toolError": "Error",
+    "assistant.approvalAria": "Aprobar acción del asistente",
+    "assistant.deleteConfirmNote": "Acción destructiva — siempre requiere confirmación.",
+    "assistant.denyBtn": "Denegar",
+    "assistant.dontAskAgainBtn": "No volver a preguntar",
+    "assistant.confirmDeleteBtn": "Confirmar eliminación",
+    "assistant.allowOnceBtn": "Permitir una vez",
+    "assistant.undoingTask": "Deshaciendo…",
+    "assistant.undoTaskInline": "Deshacer tarea ({count})"
   }
 }
