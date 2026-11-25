@@ -1456,6 +1456,23 @@
     "aiPreview.closePreview": "Close preview",
     "aiPreview.closePreviewTitle": "Close AI preview (Esc)",
     "operator.jumpLatest": "Jump to latest",
-    "operator.latestShort": "Latest"
+    "operator.latestShort": "Latest",
+    "operator.planLabel": "Plan",
+    "operator.planComplete": "Complete",
+    "operator.planNext": "Next: {step}",
+    "operator.planToggleAria": "Toggle plan checklist",
+    "operator.folderBadge": "Folder",
+    "operator.folderFilesCount": "{included}/{total} files",
+    "operator.mentionFilterMore": "Showing {shown} of {total} items — keep typing to filter",
+    "operator.changedFilesCount": "Changed {count} files",
+    "operator.queuePrev": "Prev",
+    "operator.queueNext": "Next",
+    "operator.keepAllBtn": "Keep All",
+    "operator.undoAllBtn": "Undo All",
+    "operator.keptAllToast": "Kept {count} Operator edits",
+    "operator.undoSkippedDirty": "Skipped {name}: save or revert unsaved editor changes first",
+    "operator.undoConflictToast": "Could not undo {name}: file changed on disk after Operator edit",
+    "operator.undoAllSummary": "Undid {undone} file(s){skipped}",
+    "operator.undoAllSkippedPart": " · {count} skipped (unsaved or modified on disk)"
   }
 }

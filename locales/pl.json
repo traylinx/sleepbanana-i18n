@@ -1456,6 +1456,23 @@
     "aiPreview.closePreview": "Zamknij podgląd",
     "aiPreview.closePreviewTitle": "Zamknij podgląd AI (Esc)",
     "operator.jumpLatest": "Przejdź na dół",
-    "operator.latestShort": "Najnowsze"
+    "operator.latestShort": "Najnowsze",
+    "operator.planLabel": "Plan",
+    "operator.planComplete": "Gotowe",
+    "operator.planNext": "Dalej: {step}",
+    "operator.planToggleAria": "Przełącz listę planu",
+    "operator.folderBadge": "Folder",
+    "operator.folderFilesCount": "{included}/{total} plików",
+    "operator.mentionFilterMore": "Pokazano {shown} z {total} elementów — wpisz więcej, aby filtrować",
+    "operator.changedFilesCount": "Zmieniono {count} plików",
+    "operator.queuePrev": "Poprz.",
+    "operator.queueNext": "Nast.",
+    "operator.keepAllBtn": "Zachowaj wszystkie",
+    "operator.undoAllBtn": "Cofnij wszystkie",
+    "operator.keptAllToast": "Zachowano {count} zmian Operatora",
+    "operator.undoSkippedDirty": "Pominięto {name}: najpierw zapisz lub cofnij niezapisane zmiany",
+    "operator.undoConflictToast": "Nie cofnięto {name}: plik zmienił się na dysku po edycji Operatora",
+    "operator.undoAllSummary": "Cofnięto {undone} plik(ów){skipped}",
+    "operator.undoAllSkippedPart": " · pominięto {count} (niezapisane lub zmienione na dysku)"
   }
 }

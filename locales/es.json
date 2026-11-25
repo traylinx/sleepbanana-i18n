@@ -1456,6 +1456,23 @@
     "aiPreview.closePreview": "Cerrar vista previa",
     "aiPreview.closePreviewTitle": "Cerrar vista previa de IA (Esc)",
     "operator.jumpLatest": "Ir al final",
-    "operator.latestShort": "Último"
+    "operator.latestShort": "Último",
+    "operator.planLabel": "Plan",
+    "operator.planComplete": "Completado",
+    "operator.planNext": "Siguiente: {step}",
+    "operator.planToggleAria": "Alternar lista del plan",
+    "operator.folderBadge": "Carpeta",
+    "operator.folderFilesCount": "{included}/{total} archivos",
+    "operator.mentionFilterMore": "Mostrando {shown} de {total} elementos — sigue escribiendo para filtrar",
+    "operator.changedFilesCount": "{count} archivos modificados",
+    "operator.queuePrev": "Ant.",
+    "operator.queueNext": "Sig.",
+    "operator.keepAllBtn": "Conservar todo",
+    "operator.undoAllBtn": "Deshacer todo",
+    "operator.keptAllToast": "Se conservaron {count} cambios del Operador",
+    "operator.undoSkippedDirty": "Se omitió {name}: guarda o revierte los cambios sin guardar primero",
+    "operator.undoConflictToast": "No se pudo deshacer {name}: el archivo cambió en disco tras la edición",
+    "operator.undoAllSummary": "Se deshicieron {undone} archivo(s){skipped}",
+    "operator.undoAllSkippedPart": " · {count} omitido(s) (sin guardar o modificados en disco)"
   }
 }

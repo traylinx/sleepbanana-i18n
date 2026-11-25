@@ -1456,6 +1456,23 @@
     "aiPreview.closePreview": "关闭预览",
     "aiPreview.closePreviewTitle": "关闭 AI 预览 (Esc)",
     "operator.jumpLatest": "跳至最新",
-    "operator.latestShort": "最新"
+    "operator.latestShort": "最新",
+    "operator.planLabel": "计划",
+    "operator.planComplete": "已完成",
+    "operator.planNext": "下一步：{step}",
+    "operator.planToggleAria": "切换计划清单",
+    "operator.folderBadge": "文件夹",
+    "operator.folderFilesCount": "{included}/{total} 个文件",
+    "operator.mentionFilterMore": "显示 {shown}/{total} 项 — 继续输入以筛选",
+    "operator.changedFilesCount": "已修改 {count} 个文件",
+    "operator.queuePrev": "上一个",
+    "operator.queueNext": "下一个",
+    "operator.keepAllBtn": "全部保留",
+    "operator.undoAllBtn": "全部撤销",
+    "operator.keptAllToast": "已保留 {count} 项操作员修改",
+    "operator.undoSkippedDirty": "已跳过 {name}：请先保存或撤销未保存的编辑器更改",
+    "operator.undoConflictToast": "无法撤销 {name}：操作员编辑后磁盘文件已变更",
+    "operator.undoAllSummary": "已撤销 {undone} 个文件{skipped}",
+    "operator.undoAllSkippedPart": " · 跳过 {count} 个（未保存或磁盘已修改）"
   }
 }

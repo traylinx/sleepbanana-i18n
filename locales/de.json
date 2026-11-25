@@ -1456,6 +1456,23 @@
     "aiPreview.closePreview": "Vorschau schließen",
     "aiPreview.closePreviewTitle": "KI-Vorschau schließen (Esc)",
     "operator.jumpLatest": "Zum Ende springen",
-    "operator.latestShort": "Aktuell"
+    "operator.latestShort": "Aktuell",
+    "operator.planLabel": "Plan",
+    "operator.planComplete": "Abgeschlossen",
+    "operator.planNext": "Nächstes: {step}",
+    "operator.planToggleAria": "Plan-Checkliste umschalten",
+    "operator.folderBadge": "Ordner",
+    "operator.folderFilesCount": "{included}/{total} Dateien",
+    "operator.mentionFilterMore": "{shown} von {total} Einträgen — zum Filtern weitertippen",
+    "operator.changedFilesCount": "{count} Dateien geändert",
+    "operator.queuePrev": "Zurück",
+    "operator.queueNext": "Weiter",
+    "operator.keepAllBtn": "Alle behalten",
+    "operator.undoAllBtn": "Alle rückgängig",
+    "operator.keptAllToast": "{count} Operator-Änderungen behalten",
+    "operator.undoSkippedDirty": "{name} übersprungen: ungespeicherte Änderungen zuerst speichern oder verwerfen",
+    "operator.undoConflictToast": "{name} nicht rückgängig gemacht: Datei auf Disk verändert",
+    "operator.undoAllSummary": "{undone} Datei(en) rückgängig gemacht{skipped}",
+    "operator.undoAllSkippedPart": " · {count} übersprungen (ungespeichert oder auf Disk geändert)"
   }
 }
