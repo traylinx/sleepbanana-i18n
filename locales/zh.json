@@ -1449,6 +1449,13 @@
     "operator.voiceTranscribing": "正在转录…",
     "operator.voiceSettingsTitle": "语音听写与音频 (STT)",
     "operator.memoryLabel": "记忆",
-    "operator.changedFiles": "已更改 {count} 个文件"
+    "operator.changedFiles": "已更改 {count} 个文件",
+    "activity.tabCapabilities": "功能概览",
+    "activity.capabilitiesTitle": "自动工作区能力",
+    "activity.capabilitiesDesc": "Operator 会为每次请求自动选择合适的工作区操作，无需手动切换工具。读取操作静默运行；编辑和删除操作始终需要你的审批，并支持一键撤销。",
+    "aiPreview.closePreview": "关闭预览",
+    "aiPreview.closePreviewTitle": "关闭 AI 预览 (Esc)",
+    "operator.jumpLatest": "跳至最新",
+    "operator.latestShort": "最新"
   }
 }

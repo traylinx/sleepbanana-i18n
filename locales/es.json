@@ -4,7 +4,7 @@
     "name": "Spanish",
     "nativeName": "Español",
     "dir": "ltr",
-    "version": "0.34.0",
+    "version": "0.35.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -1449,6 +1449,13 @@
     "operator.voiceTranscribing": "Transcribiendo…",
     "operator.voiceSettingsTitle": "Dictado por voz y audio (STT)",
     "operator.memoryLabel": "Memoria",
-    "operator.changedFiles": "{count} archivo(s) cambiado(s)"
+    "operator.changedFiles": "{count} archivo(s) cambiado(s)",
+    "activity.tabCapabilities": "Capacidades",
+    "activity.capabilitiesTitle": "Capacidades automáticas del espacio de trabajo",
+    "activity.capabilitiesDesc": "Operator elige automáticamente las acciones adecuadas para cada solicitud, sin cambiar herramientas manualmente. Las lecturas se ejecutan en silencio; las ediciones y eliminaciones siempre piden aprobación y admiten Deshacer en 1 clic.",
+    "aiPreview.closePreview": "Cerrar vista previa",
+    "aiPreview.closePreviewTitle": "Cerrar vista previa de IA (Esc)",
+    "operator.jumpLatest": "Ir al final",
+    "operator.latestShort": "Último"
   }
 }

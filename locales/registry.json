@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "repo": "traylinx/sleepbanana-i18n",
   "branch": "main",
-  "canonicalKeys": 1388,
-  "updatedAt": "2026-11-24",
+  "canonicalKeys": 1449,
+  "updatedAt": "2026-11-25",
   "locales": [
     {
       "code": "en",
@@ -13,8 +13,8 @@
       "bundled": true,
       "file": "locales/en.json",
       "coveragePct": 100,
-      "translatedKeys": 1388,
-      "version": "0.34.0",
+      "translatedKeys": 1449,
+      "version": "0.35.0",
       "author": "SleepBanana Core"
     },
     {
@@ -25,8 +25,8 @@
       "bundled": true,
       "file": "locales/pl.json",
       "coveragePct": 100,
-      "translatedKeys": 1388,
-      "version": "0.34.0",
+      "translatedKeys": 1449,
+      "version": "0.35.0",
       "author": "SleepBanana Core"
     },
     {
@@ -37,8 +37,8 @@
       "bundled": true,
       "file": "locales/es.json",
       "coveragePct": 100,
-      "translatedKeys": 1388,
-      "version": "0.34.0",
+      "translatedKeys": 1449,
+      "version": "0.35.0",
       "author": "SleepBanana Core"
     },
     {
@@ -49,8 +49,8 @@
       "bundled": true,
       "file": "locales/de.json",
       "coveragePct": 100,
-      "translatedKeys": 1388,
-      "version": "0.34.0",
+      "translatedKeys": 1449,
+      "version": "0.35.0",
       "author": "SleepBanana Core"
     },
     {
@@ -61,7 +61,7 @@
       "bundled": false,
       "file": "locales/zh.json",
       "coveragePct": 100,
-      "translatedKeys": 1388,
+      "translatedKeys": 1449,
       "version": "0.34.0",
       "author": "SleepBanana Community"
     }

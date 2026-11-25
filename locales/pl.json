@@ -4,7 +4,7 @@
     "name": "Polish",
     "nativeName": "Polski",
     "dir": "ltr",
-    "version": "0.34.0",
+    "version": "0.35.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -1449,6 +1449,13 @@
     "operator.voiceTranscribing": "Transkrypcja…",
     "operator.voiceSettingsTitle": "Dyktowanie głosowe i audio (STT)",
     "operator.memoryLabel": "Pamięć",
-    "operator.changedFiles": "Zmieniono pliki ({count})"
+    "operator.changedFiles": "Zmieniono pliki ({count})",
+    "activity.tabCapabilities": "Możliwości",
+    "activity.capabilitiesTitle": "Automatyczne możliwości obszaru roboczego",
+    "activity.capabilitiesDesc": "Operator automatycznie dobiera właściwe akcje obszaru roboczego do każdego polecenia — bez ręcznego przełączania narzędzi. Odczyt działa w tle; edycje i usuwanie zawsze czekają na Twoją zgodę i obsługują Cofnij 1 kliknięciem.",
+    "aiPreview.closePreview": "Zamknij podgląd",
+    "aiPreview.closePreviewTitle": "Zamknij podgląd AI (Esc)",
+    "operator.jumpLatest": "Przejdź na dół",
+    "operator.latestShort": "Najnowsze"
   }
 }

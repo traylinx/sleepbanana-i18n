@@ -4,7 +4,7 @@
     "name": "English",
     "nativeName": "English",
     "dir": "ltr",
-    "version": "0.34.0",
+    "version": "0.35.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -1449,6 +1449,13 @@
     "operator.voiceTranscribing": "Transcribing…",
     "operator.voiceSettingsTitle": "Voice & Audio Dictation (STT)",
     "operator.memoryLabel": "Memory",
-    "operator.changedFiles": "Changed {count} file(s)"
+    "operator.changedFiles": "Changed {count} file(s)",
+    "activity.tabCapabilities": "Capabilities",
+    "activity.capabilitiesTitle": "Automatic Workspace Capabilities",
+    "activity.capabilitiesDesc": "Operator automatically picks the right workspace actions for each request — no manual tool switching needed. Read actions run silently; edits and deletions always pause for your approval and support 1-click Undo.",
+    "aiPreview.closePreview": "Close preview",
+    "aiPreview.closePreviewTitle": "Close AI preview (Esc)",
+    "operator.jumpLatest": "Jump to latest",
+    "operator.latestShort": "Latest"
   }
 }

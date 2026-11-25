@@ -4,7 +4,7 @@
     "name": "German",
     "nativeName": "Deutsch",
     "dir": "ltr",
-    "version": "0.34.0",
+    "version": "0.35.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -1449,6 +1449,13 @@
     "operator.voiceTranscribing": "Transkribiere…",
     "operator.voiceSettingsTitle": "Sprachdiktat & Audio (STT)",
     "operator.memoryLabel": "Speicher",
-    "operator.changedFiles": "{count} Datei(en) geändert"
+    "operator.changedFiles": "{count} Datei(en) geändert",
+    "activity.tabCapabilities": "Fähigkeiten",
+    "activity.capabilitiesTitle": "Automatische Arbeitsbereichs-Fähigkeiten",
+    "activity.capabilitiesDesc": "Operator wählt automatisch die passenden Arbeitsbereichs-Aktionen für jede Anfrage — ganz ohne manuelles Tool-Umschalten. Leseaktionen laufen im Hintergrund; Änderungen und Löschungen erfordern immer deine Freigabe mit 1-Klick-Rückgängig.",
+    "aiPreview.closePreview": "Vorschau schließen",
+    "aiPreview.closePreviewTitle": "KI-Vorschau schließen (Esc)",
+    "operator.jumpLatest": "Zum Ende springen",
+    "operator.latestShort": "Aktuell"
   }
 }
