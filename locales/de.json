@@ -1630,6 +1630,8 @@
     "palette.askOperator": "Operator fragen: „{query}“",
     "palette.askOperatorSub": "SleepBanana steuern oder Dateien mit KI analysieren",
     "palette.aiSearchWorkspace": "KI-Suche im Arbeitsbereich: „{query}“",
-    "palette.aiSearchWorkspaceSub": "Semantische Suche & direkte Antwort aus Notizen"
+    "palette.aiSearchWorkspaceSub": "Semantische Suche & direkte Antwort aus Notizen",
+    "operator.selectedPassage": "Ausgewählter Abschnitt",
+    "operator.askSelectionPlaceholder": "{provider} zum ausgewählten Abschnitt fragen…"
   }
 }

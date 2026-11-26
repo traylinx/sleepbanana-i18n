@@ -1630,6 +1630,8 @@
     "palette.askOperator": "Preguntar al Operador: «{query}»",
     "palette.askOperatorSub": "Controla SleepBanana o analiza archivos con IA",
     "palette.aiSearchWorkspace": "Buscar con IA en el espacio: «{query}»",
-    "palette.aiSearchWorkspaceSub": "Búsqueda semántica y respuesta directa en notas"
+    "palette.aiSearchWorkspaceSub": "Búsqueda semántica y respuesta directa en notas",
+    "operator.selectedPassage": "Fragmento seleccionado",
+    "operator.askSelectionPlaceholder": "Pregunta a {provider} sobre el fragmento seleccionado…"
   }
 }

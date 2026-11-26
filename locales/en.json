@@ -1630,6 +1630,8 @@
     "palette.askOperator": "Ask Operator: \"{query}\"",
     "palette.askOperatorSub": "Drive SleepBanana actions or analyze files with AI",
     "palette.aiSearchWorkspace": "AI Search workspace for \"{query}\"",
-    "palette.aiSearchWorkspaceSub": "Semantic search + direct answer across indexed notes"
+    "palette.aiSearchWorkspaceSub": "Semantic search + direct answer across indexed notes",
+    "operator.selectedPassage": "Selected passage",
+    "operator.askSelectionPlaceholder": "Ask {provider} about the selected passage…"
   }
 }

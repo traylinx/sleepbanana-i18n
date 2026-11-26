@@ -1630,6 +1630,8 @@
     "palette.askOperator": "询问 Operator：“{query}”",
     "palette.askOperatorSub": "用 AI 驱动 SleepBanana 功能或分析文件",
     "palette.aiSearchWorkspace": "AI 搜索工作区：“{query}”",
-    "palette.aiSearchWorkspaceSub": "跨笔记语义检索并生成直接回答"
+    "palette.aiSearchWorkspaceSub": "跨笔记语义检索并生成直接回答",
+    "operator.selectedPassage": "已选段落",
+    "operator.askSelectionPlaceholder": "向 {provider} 询问所选段落…"
   }
 }

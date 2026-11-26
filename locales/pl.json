@@ -1630,6 +1630,8 @@
     "palette.askOperator": "Zapytaj Operatora: „{query}”",
     "palette.askOperatorSub": "Steruj funkcjami SleepBanana lub analizuj pliki z AI",
     "palette.aiSearchWorkspace": "Szukaj AI w obszarze: „{query}”",
-    "palette.aiSearchWorkspaceSub": "Wyszukiwanie semantyczne i odpowiedź z notatek"
+    "palette.aiSearchWorkspaceSub": "Wyszukiwanie semantyczne i odpowiedź z notatek",
+    "operator.selectedPassage": "Zaznaczony fragment",
+    "operator.askSelectionPlaceholder": "Zapytaj {provider} o zaznaczony fragment…"
   }
 }
