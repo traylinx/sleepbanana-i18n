@@ -1579,6 +1579,12 @@
     "operator.toolsCount": "{count} tools",
     "operator.followUpKanban": "Create Kanban tasks",
     "operator.followUpApplyFixes": "Apply top fixes",
-    "operator.followUpReviewDiffs": "Review changed files"
+    "operator.followUpReviewDiffs": "Review changed files",
+    "operator.newActivity": "New activity",
+    "operator.continueTurn": "Continue",
+    "operator.rejectWithGuidance": "Reject with guidance",
+    "operator.denyAndGuide": "Deny & guide",
+    "operator.guidancePlaceholder": "Tell Operator what to do instead…",
+    "operator.runningInBackground": "Running in background"
   }
 }

@@ -1579,6 +1579,12 @@
     "operator.toolsCount": "{count} herr.",
     "operator.followUpKanban": "Crear tareas Kanban",
     "operator.followUpApplyFixes": "Aplicar mejoras clave",
-    "operator.followUpReviewDiffs": "Revisar archivos cambiados"
+    "operator.followUpReviewDiffs": "Revisar archivos cambiados",
+    "operator.newActivity": "Nueva actividad",
+    "operator.continueTurn": "Continuar",
+    "operator.rejectWithGuidance": "Rechazar con indicación",
+    "operator.denyAndGuide": "Rechazar y guiar",
+    "operator.guidancePlaceholder": "Indica a Operator qué hacer en su lugar…",
+    "operator.runningInBackground": "Ejecutándose en segundo plano"
   }
 }

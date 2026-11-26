@@ -1579,6 +1579,12 @@
     "operator.toolsCount": "{count} narz.",
     "operator.followUpKanban": "Utwórz zadania Kanban",
     "operator.followUpApplyFixes": "Zastosuj główne poprawki",
-    "operator.followUpReviewDiffs": "Przejrzyj zmienione pliki"
+    "operator.followUpReviewDiffs": "Przejrzyj zmienione pliki",
+    "operator.newActivity": "Nowa aktywność",
+    "operator.continueTurn": "Kontynuuj",
+    "operator.rejectWithGuidance": "Odrzuć ze wskazówką",
+    "operator.denyAndGuide": "Odrzuć i pokieruj",
+    "operator.guidancePlaceholder": "Powiedz Operatorowi, co zrobić zamiast tego…",
+    "operator.runningInBackground": "Działa w tle"
   }
 }

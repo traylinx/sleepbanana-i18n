@@ -1579,6 +1579,12 @@
     "operator.toolsCount": "{count} 个工具",
     "operator.followUpKanban": "创建看板任务",
     "operator.followUpApplyFixes": "应用关键修复",
-    "operator.followUpReviewDiffs": "查看已更改文件"
+    "operator.followUpReviewDiffs": "查看已更改文件",
+    "operator.newActivity": "新动态",
+    "operator.continueTurn": "继续",
+    "operator.rejectWithGuidance": "拒绝并给出指引",
+    "operator.denyAndGuide": "拒绝并指引",
+    "operator.guidancePlaceholder": "告诉 Operator 改做什么…",
+    "operator.runningInBackground": "正在后台运行"
   }
 }

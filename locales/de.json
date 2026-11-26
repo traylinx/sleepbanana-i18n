@@ -1579,6 +1579,12 @@
     "operator.toolsCount": "{count} Tools",
     "operator.followUpKanban": "Kanban-Aufgaben erstellen",
     "operator.followUpApplyFixes": "Wichtigste Fixes anwenden",
-    "operator.followUpReviewDiffs": "Geänderte Dateien prüfen"
+    "operator.followUpReviewDiffs": "Geänderte Dateien prüfen",
+    "operator.newActivity": "Neue Aktivität",
+    "operator.continueTurn": "Fortsetzen",
+    "operator.rejectWithGuidance": "Mit Hinweis ablehnen",
+    "operator.denyAndGuide": "Ablehnen & leiten",
+    "operator.guidancePlaceholder": "Sag Operator, was stattdessen zu tun ist…",
+    "operator.runningInBackground": "Läuft im Hintergrund"
   }
 }
