@@ -1585,6 +1585,13 @@
     "operator.rejectWithGuidance": "拒绝并给出指引",
     "operator.denyAndGuide": "拒绝并指引",
     "operator.guidancePlaceholder": "告诉 Operator 改做什么…",
-    "operator.runningInBackground": "正在后台运行"
+    "operator.runningInBackground": "正在后台运行",
+    "tabs.overviewTitle": "已打开标签页",
+    "tabs.overviewTooltip": "预览所有已打开标签页",
+    "tabs.overviewSearchPlaceholder": "按文件名、文件夹或内容筛选标签页…",
+    "tabs.overviewActive": "当前",
+    "tabs.overviewEmpty": "没有匹配筛选条件的已打开标签页",
+    "tabs.overviewAllGroups": "全部",
+    "tabs.overviewFooterHint": "点击缩略图切换 · 方向键与 Enter · Esc 关闭"
   }
 }

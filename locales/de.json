@@ -1585,6 +1585,13 @@
     "operator.rejectWithGuidance": "Mit Hinweis ablehnen",
     "operator.denyAndGuide": "Ablehnen & leiten",
     "operator.guidancePlaceholder": "Sag Operator, was stattdessen zu tun ist…",
-    "operator.runningInBackground": "Läuft im Hintergrund"
+    "operator.runningInBackground": "Läuft im Hintergrund",
+    "tabs.overviewTitle": "Geöffnete Tabs",
+    "tabs.overviewTooltip": "Alle geöffneten Tabs als Vorschau anzeigen",
+    "tabs.overviewSearchPlaceholder": "Tabs nach Name, Ordner oder Inhalt filtern…",
+    "tabs.overviewActive": "Aktiv",
+    "tabs.overviewEmpty": "Keine geöffneten Tabs passen zum Filter",
+    "tabs.overviewAllGroups": "Alle",
+    "tabs.overviewFooterHint": "Miniatur anklicken zum Wechseln · Pfeiltasten & Enter · Esc schließt"
   }
 }

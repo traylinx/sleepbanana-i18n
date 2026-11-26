@@ -1585,6 +1585,13 @@
     "operator.rejectWithGuidance": "Rechazar con indicación",
     "operator.denyAndGuide": "Rechazar y guiar",
     "operator.guidancePlaceholder": "Indica a Operator qué hacer en su lugar…",
-    "operator.runningInBackground": "Ejecutándose en segundo plano"
+    "operator.runningInBackground": "Ejecutándose en segundo plano",
+    "tabs.overviewTitle": "Pestañas abiertas",
+    "tabs.overviewTooltip": "Vista previa de todas las pestañas abiertas",
+    "tabs.overviewSearchPlaceholder": "Filtrar pestañas por nombre, carpeta o contenido…",
+    "tabs.overviewActive": "Activa",
+    "tabs.overviewEmpty": "Ninguna pestaña abierta coincide con tu filtro",
+    "tabs.overviewAllGroups": "Todas",
+    "tabs.overviewFooterHint": "Haz clic en una miniatura para cambiar · Flechas y Enter · Esc para cerrar"
   }
 }

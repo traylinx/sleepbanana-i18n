@@ -1585,6 +1585,13 @@
     "operator.rejectWithGuidance": "Odrzuć ze wskazówką",
     "operator.denyAndGuide": "Odrzuć i pokieruj",
     "operator.guidancePlaceholder": "Powiedz Operatorowi, co zrobić zamiast tego…",
-    "operator.runningInBackground": "Działa w tle"
+    "operator.runningInBackground": "Działa w tle",
+    "tabs.overviewTitle": "Otwarte karty",
+    "tabs.overviewTooltip": "Podgląd wszystkich otwartych kart",
+    "tabs.overviewSearchPlaceholder": "Filtruj karty po nazwie, folderze lub treści…",
+    "tabs.overviewActive": "Aktywna",
+    "tabs.overviewEmpty": "Brak otwartych kart pasujących do filtra",
+    "tabs.overviewAllGroups": "Wszystkie",
+    "tabs.overviewFooterHint": "Kliknij miniaturę, aby przełączyć · Strzałki i Enter · Esc zamyka"
   }
 }

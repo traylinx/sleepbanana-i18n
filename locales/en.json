@@ -1585,6 +1585,13 @@
     "operator.rejectWithGuidance": "Reject with guidance",
     "operator.denyAndGuide": "Deny & guide",
     "operator.guidancePlaceholder": "Tell Operator what to do instead…",
-    "operator.runningInBackground": "Running in background"
+    "operator.runningInBackground": "Running in background",
+    "tabs.overviewTitle": "Open Tabs",
+    "tabs.overviewTooltip": "Preview all open tabs",
+    "tabs.overviewSearchPlaceholder": "Filter tabs by name, folder, or content…",
+    "tabs.overviewActive": "Active",
+    "tabs.overviewEmpty": "No open tabs match your filter",
+    "tabs.overviewAllGroups": "All",
+    "tabs.overviewFooterHint": "Click a miniature to switch · Arrow keys & Enter · Esc to close"
   }
 }
