@@ -4,7 +4,7 @@
     "name": "Polish",
     "nativeName": "Polski",
     "dir": "ltr",
-    "version": "0.36.0",
+    "version": "0.40.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -1606,7 +1606,7 @@
     "assistant.fastRoleTitle": "Szybki model pomocniczy",
     "assistant.fastRoleBadge": "Wyszukiwanie AI i szybkie zadania",
     "assistant.fastProviderLabel": "Szybki dostawca",
-    "assistant.fastRoleDesc": "Używany na żądanie do wyszukiwania hybrydowego AI, by zachować szybkość i niskie zużycie zasobów (0 RAM/CPU w tle).",
+    "assistant.fastRoleDesc": "Używany na żądanie do wyszukiwania hybrydowego AI i błyskawicznych akcji na zaznaczeniu (Wyjaśnij, Przepisz, Popraw, Tłumacz) — 0 RAM/CPU w tle.",
     "assistant.fastAutoOption": "Auto (aktywny dostawca · niski nakład)",
     "assistant.fastModelLabel": "Nadpisanie szybkiego modelu",
     "assistant.fastModelDesc": "Wybierz lekki model u dostawcy {provider} (np. Flash, Haiku lub lokalna Ollama).",

@@ -4,7 +4,7 @@
     "name": "English",
     "nativeName": "English",
     "dir": "ltr",
-    "version": "0.36.0",
+    "version": "0.40.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -1606,7 +1606,7 @@
     "assistant.fastRoleTitle": "Fast Utility Model",
     "assistant.fastRoleBadge": "AI Search & Quick Tasks",
     "assistant.fastProviderLabel": "Fast Provider",
-    "assistant.fastRoleDesc": "Used on demand for Hybrid AI Search so heavy Operator models stay fast & low-cost (0 idle RAM/CPU).",
+    "assistant.fastRoleDesc": "Used on demand for Hybrid AI Search and instant selection actions (Explain, Rewrite, Fix, Translate) with 0 idle RAM/CPU.",
     "assistant.fastAutoOption": "Auto (Active provider · low effort)",
     "assistant.fastModelLabel": "Fast Model Override",
     "assistant.fastModelDesc": "Pick a lightweight model on {provider} (e.g. Flash, Haiku, or local Ollama).",

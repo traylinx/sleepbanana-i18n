@@ -4,7 +4,7 @@
     "name": "German",
     "nativeName": "Deutsch",
     "dir": "ltr",
-    "version": "0.36.0",
+    "version": "0.40.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -1606,7 +1606,7 @@
     "assistant.fastRoleTitle": "Schnelles Hilfsmodell",
     "assistant.fastRoleBadge": "KI-Suche & Schnellaufgaben",
     "assistant.fastProviderLabel": "Schneller Anbieter",
-    "assistant.fastRoleDesc": "Wird bei Bedarf für hybride KI-Suche genutzt, damit Hauptmodelle schnell bleiben (0 RAM/CPU im Leerlauf).",
+    "assistant.fastRoleDesc": "Wird bei Bedarf für hybride KI-Suche und sofortige Auswahl-Aktionen (Erklären, Umschreiben, Korrigieren, Übersetzen) genutzt — 0 RAM/CPU im Leerlauf.",
     "assistant.fastAutoOption": "Auto (Aktiver Anbieter · geringer Aufwand)",
     "assistant.fastModelLabel": "Schnelles Modell überschreiben",
     "assistant.fastModelDesc": "Wähle ein leichtes Modell bei {provider} (z. B. Flash, Haiku oder lokales Ollama).",

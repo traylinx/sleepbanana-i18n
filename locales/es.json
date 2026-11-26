@@ -4,7 +4,7 @@
     "name": "Spanish",
     "nativeName": "Español",
     "dir": "ltr",
-    "version": "0.36.0",
+    "version": "0.40.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -1606,7 +1606,7 @@
     "assistant.fastRoleTitle": "Modelo rápido de utilidad",
     "assistant.fastRoleBadge": "Búsqueda IA y tareas rápidas",
     "assistant.fastProviderLabel": "Proveedor rápido",
-    "assistant.fastRoleDesc": "Se usa bajo demanda para búsqueda híbrida con IA con consumo mínimo (0 RAM/CPU en reposo).",
+    "assistant.fastRoleDesc": "Se usa bajo demanda para búsqueda híbrida con IA y acciones instantáneas de selección (Explicar, Reescribir, Corregir, Traducir) — 0 RAM/CPU en reposo.",
     "assistant.fastAutoOption": "Auto (proveedor activo · esfuerzo bajo)",
     "assistant.fastModelLabel": "Modelo rápido específico",
     "assistant.fastModelDesc": "Elige un modelo ligero en {provider} (p. ej. Flash, Haiku u Ollama local).",
