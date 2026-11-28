@@ -4,7 +4,7 @@
     "name": "Spanish",
     "nativeName": "Español",
     "dir": "ltr",
-    "version": "0.42.0",
+    "version": "0.43.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -159,6 +159,9 @@
     "sidebar.removeWorkspace": "Eliminar espacio",
     "sidebar.switchWorkspace": "Cambiar espacio (Alt+1..9)",
     "sidebar.workspacesHeading": "Espacios de trabajo",
+    "sidebar.projectsHeading": "Proyectos",
+    "sidebar.newWorkspaceInProject": "Nuevo espacio en {project}",
+    "sidebar.newWorkspacePlaceholder": "Nombre del espacio...",
     "sidebar.openInFinderTitle": "Abrir «{name}» en Finder",
     "sidebar.openFolderInFinder": "Abrir carpeta en Finder",
     "sidebar.openFolderInFinderAria": "Abrir carpeta en Finder",
@@ -871,6 +874,7 @@
     "toast.tableUnsaved": "Tabla actualizada - pulsa Cmd/Ctrl+S para guardar",
     "toast.workspaceSwitched": "Espacio: {name}",
     "toast.pinnedWorkspace": "Espacio fijado: «{name}»",
+    "toast.createdWorkspace": "Espacio creado: «{name}»",
     "toast.alreadyPinned": "Ya está fijado como «{name}»",
     "toast.removedWorkspace": "Espacio eliminado",
     "toast.restoredSnapshot": "Instantánea restaurada - pulsa Cmd/Ctrl+S para guardar",

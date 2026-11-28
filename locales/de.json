@@ -4,7 +4,7 @@
     "name": "German",
     "nativeName": "Deutsch",
     "dir": "ltr",
-    "version": "0.42.0",
+    "version": "0.43.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -159,6 +159,9 @@
     "sidebar.removeWorkspace": "Workspace entfernen",
     "sidebar.switchWorkspace": "Workspace wechseln (Alt+1..9)",
     "sidebar.workspacesHeading": "Workspaces",
+    "sidebar.projectsHeading": "Projekte",
+    "sidebar.newWorkspaceInProject": "Neuer Workspace in {project}",
+    "sidebar.newWorkspacePlaceholder": "Workspace-Name...",
     "sidebar.openInFinderTitle": "\"{name}\" im Finder öffnen",
     "sidebar.openFolderInFinder": "Ordner im Finder öffnen",
     "sidebar.openFolderInFinderAria": "Ordner im Finder öffnen",
@@ -871,6 +874,7 @@
     "toast.tableUnsaved": "Tabelle aktualisiert - Cmd/Ctrl+S zum Speichern",
     "toast.workspaceSwitched": "Workspace: {name}",
     "toast.pinnedWorkspace": "Workspace \"{name}\" angeheftet",
+    "toast.createdWorkspace": "Workspace \"{name}\" erstellt",
     "toast.alreadyPinned": "Bereits als \"{name}\" angeheftet",
     "toast.removedWorkspace": "Workspace entfernt",
     "toast.restoredSnapshot": "Schnappschuss wiederhergestellt - Cmd/Ctrl+S zum Speichern",

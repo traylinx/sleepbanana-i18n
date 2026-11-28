@@ -4,7 +4,7 @@
     "name": "Polish",
     "nativeName": "Polski",
     "dir": "ltr",
-    "version": "0.42.0",
+    "version": "0.43.0",
     "author": "SleepBanana Core"
   },
   "messages": {
@@ -159,6 +159,9 @@
     "sidebar.removeWorkspace": "Usuń przestrzeń",
     "sidebar.switchWorkspace": "Przełącz przestrzeń (Alt+1..9)",
     "sidebar.workspacesHeading": "Przestrzenie robocze",
+    "sidebar.projectsHeading": "Projekty",
+    "sidebar.newWorkspaceInProject": "Nowa przestrzeń w {project}",
+    "sidebar.newWorkspacePlaceholder": "Nazwa przestrzeni...",
     "sidebar.openInFinderTitle": "Otwórz \"{name}\" w Finderze",
     "sidebar.openFolderInFinder": "Otwórz folder w Finderze",
     "sidebar.openFolderInFinderAria": "Otwórz folder w Finderze",
@@ -871,6 +874,7 @@
     "toast.tableUnsaved": "Zaktualizowano tabelę - naciśnij Cmd/Ctrl+S, aby zapisać",
     "toast.workspaceSwitched": "Przestrzeń: {name}",
     "toast.pinnedWorkspace": "Przypięto przestrzeń \"{name}\"",
+    "toast.createdWorkspace": "Utworzono przestrzeń \"{name}\"",
     "toast.alreadyPinned": "Już przypięto jako \"{name}\"",
     "toast.removedWorkspace": "Usunięto przestrzeń",
     "toast.restoredSnapshot": "Przywrócono migawkę - naciśnij Cmd/Ctrl+S, aby zapisać",
